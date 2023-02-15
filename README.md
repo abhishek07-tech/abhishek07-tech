@@ -1,4 +1,4 @@
-h1 align="center">Hi 👋, I'm Abhishek Kalal</h1>
+< h1 align="center"> Hi 👋, I'm Abhishek Kalal</h1>
 <h3 align="center">Frontend developer from India</h3>
 <img align="right" alt="coding" width ="400" src="https://miro.medium.com/max/1600/0*C-cPP9D2MIyeexAT.gif"/>
 
